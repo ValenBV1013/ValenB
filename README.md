@@ -60,8 +60,8 @@ Soy un **Desarrollador Full Stack** apasionado por la tecnología, el aprendizaj
 
 ## 📫 Contacto
 
-- ✉️ **Email:** [valentinablandon12345678@gmail.com]  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](www.linkedin.com/in/valentina-blandon-velez-865504308)  
+- ✉️ **Email:** valentinablandon12345678@gmail.com  
+- 💼 **LinkedIn:** www.linkedin.com/in/valentina-blandon-velez-865504308
 - 🧑‍💻 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
 
 ---
